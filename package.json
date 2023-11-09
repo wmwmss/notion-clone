@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^4.27.2",
+    "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "convex": "^1.5.1",
+    "edgestore": "^1.0.3",
     "lucide-react": "^0.291.0",
     "next": "13.5.6",
+    "next-theme": "^0.1.5",
+    "next-themes": "^0.2.1",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.0.0",
